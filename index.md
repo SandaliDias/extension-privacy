@@ -32,12 +32,11 @@ We store the following in extension/browser storage:
 - Authentication token
 - User ID
 - Consent status
-- Tracking enabled/disabled state
-- Per-event tracking preferences
+- Session/login state
 
 ### 2.3 Web Browsing Activity and Interaction Data
 
-When tracking is enabled, we collect:
+After you provide consent during registration and while you are logged in, we collect:
 
 - Page metadata: URL, page title, referrer, viewport size
 - Click interaction metadata: click position (x, y), element type, element ID/class
@@ -93,9 +92,9 @@ If we add a new external processor, we will update this policy before sharing da
 
 ## 5. Consent and User Controls
 
-- Before tracking is enabled, the Extension presents in-product disclosure and requires an affirmative user action.
-- Tracking can be turned on or off in the Extension popup.
-- You can withdraw consent by disabling tracking.
+- Before account creation, the Extension presents in-product disclosure and requires an affirmative user action.
+- Registration is available only after consent to the disclosed data use.
+- You can withdraw consent by logging out and requesting account deletion.
 - You can request account/data deletion by contacting us (see Contact section).
 - Uninstalling removes locally stored extension data.
 
