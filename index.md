@@ -1,7 +1,7 @@
 # Privacy Policy - AURA Interaction Tracker
 
-**Last updated:** March 8, 2026  
-**Effective date:** March 8, 2026
+**Last updated:** March 9, 2026  
+**Effective date:** March 9, 2026
 
 This Privacy Policy explains how the AURA Interaction Tracker Chrome extension ("Extension", "we", "our", "us") collects, uses, stores, and shares data.
 
